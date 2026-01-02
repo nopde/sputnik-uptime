@@ -4,19 +4,19 @@
     "url": "https://sputnik-84xb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/sputnik-84xb.onrender.com.ico",
     "slug": "sputnik",
-    "status": "down",
-    "uptime": "82.14%",
-    "uptimeDay": "85.13%",
-    "uptimeWeek": "81.00%",
-    "uptimeMonth": "82.14%",
-    "uptimeYear": "82.14%",
-    "time": 4645,
-    "timeDay": 4369,
-    "timeWeek": 3267,
-    "timeMonth": 4645,
-    "timeYear": 4645,
+    "status": "up",
+    "uptime": "81.97%",
+    "uptimeDay": "79.20%",
+    "uptimeWeek": "80.54%",
+    "uptimeMonth": "81.97%",
+    "uptimeYear": "81.97%",
+    "time": 4620,
+    "timeDay": 4021,
+    "timeWeek": 3268,
+    "timeMonth": 4620,
+    "timeYear": 4620,
     "dailyMinutesDown": {
-      "2026-01-02": 134,
+      "2026-01-02": 219,
       "2026-01-01": 380,
       "2025-12-31": 240,
       "2025-12-30": 297,
@@ -29,7 +29,7 @@
       "2025-12-23": 525,
       "2025-12-22": 445,
       "2025-12-21": 480,
-      "2025-12-20": 96
+      "2025-12-20": 66
     }
   }
 ]
