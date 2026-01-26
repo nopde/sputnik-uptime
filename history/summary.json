@@ -4,7 +4,7 @@
     "url": "https://sputnik-84xb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/sputnik-84xb.onrender.com.ico",
     "slug": "sputnik",
-    "status": "up",
+    "status": "down",
     "uptime": "92.56%",
     "uptimeDay": "75.24%",
     "uptimeWeek": "79.07%",
@@ -13,7 +13,7 @@
     "time": 4947,
     "timeDay": 7408,
     "timeWeek": 5995,
-    "timeMonth": 4760,
+    "timeMonth": 4776,
     "timeYear": 4947,
     "dailyMinutesDown": {
       "2026-01-26": 313,
