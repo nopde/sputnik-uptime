@@ -4,14 +4,14 @@
     "url": "https://sputnik-84xb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/sputnik-84xb.onrender.com.ico",
     "slug": "sputnik",
-    "status": "up",
-    "uptime": "93.01%",
-    "uptimeDay": "50.55%",
+    "status": "down",
+    "uptime": "93.05%",
+    "uptimeDay": "52.03%",
     "uptimeWeek": "58.46%",
-    "uptimeMonth": "75.91%",
-    "uptimeYear": "93.01%",
+    "uptimeMonth": "76.05%",
+    "uptimeYear": "93.05%",
     "time": 5786,
-    "timeDay": 15143,
+    "timeDay": 13751,
     "timeWeek": 7428,
     "timeMonth": 6608,
     "timeYear": 5786,
@@ -32,7 +32,7 @@
       "2026-03-18": 438,
       "2026-03-17": 880,
       "2026-03-16": 867,
-      "2026-03-15": 356
+      "2026-03-15": 292
     }
   }
 ]
